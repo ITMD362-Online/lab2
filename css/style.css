@@ -8,6 +8,7 @@ h1 {
 }
 
 #container {
+  width: 100%;
   
 }
 
@@ -21,8 +22,10 @@ input {
   display: block;
   box-sizing: border-box;
   margin:auto;
+  width: 90%;
 }
 
 input[type=submit] {
+ width: 10em;
   
 }
