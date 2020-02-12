@@ -43,10 +43,10 @@ input[type=submit] {
 
 @media only screen and (min-width: 1025px) {
   body {
-    background-color: darkcyan;
+    background-color: blue;
   }
   
-  input {width:50px;}
+  input {width:300px;}
 
   label {
     width: 10%;
